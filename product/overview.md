@@ -38,7 +38,8 @@ Fuente de todos los datos: brief del caso entregado en clase (secciones citadas 
 Ordenadas por impacto × incertidumbre — la primera es la próxima a atacar.
 
 1. [product] [value] Quienes conducen reuniones sacan al grupo de Teams (Miro, Google Docs, Jira…) porque las herramientas nativas de colaboración en vivo no les alcanzan para el trabajo que hacen en la reunión, y no solo porque ese contenido ya vivía fuera antes de la reunión.
-2. [product] [viability] Las "funciones que no usamos" por las que las cuentas bajan de plan son sobre todo las capacidades avanzadas de reuniones de los planes superiores; si IT viera a sus equipos usándolas, mantendría el plan o pagaría los USD 8 de Premium a Max.
-3. [product] [value] Reuniones es la parte de Teams que los empleados elegirían aunque nadie se la impusiera; el chat es donde, pudiendo elegir, los equipos se van a Slack o Google Chat.
-4. [product] [viability] La experiencia de Team Leads y mandos medios pesa en la decisión de IT de renovar, subir o bajar de plan; IT no decide solo por precio y paquete de Microsoft 365.
-5. [product] [value] Quienes se quejan de "demasiadas reuniones" esperan que Teams les ayude a tener menos o más cortas, y no lo ven solo como un problema de cultura de su organización que ninguna herramienta resuelve.
+2. [opportunity: colaboracion-en-vivo] [viability] En las cuentas del segmento, la colaboración en vivo durante las reuniones es un motivo con peso propio para pasar de Premium a Max: aparece como razón en al menos 1 de cada 4 conversaciones de renovación o upgrade, y las cuentas donde quienes conducen la reclaman pagarían los USD 8 por usuario por mes.
+3. [product] [viability] Las "funciones que no usamos" por las que las cuentas bajan de plan son sobre todo las capacidades avanzadas de reuniones de los planes superiores; si IT viera a sus equipos usándolas, mantendría el plan o pagaría los USD 8 de Premium a Max.
+4. [product] [value] Reuniones es la parte de Teams que los empleados elegirían aunque nadie se la impusiera; el chat es donde, pudiendo elegir, los equipos se van a Slack o Google Chat.
+5. [product] [viability] La experiencia de Team Leads y mandos medios pesa en la decisión de IT de renovar, subir o bajar de plan; IT no decide solo por precio y paquete de Microsoft 365.
+6. [product] [value] Quienes se quejan de "demasiadas reuniones" esperan que Teams les ayude a tener menos o más cortas, y no lo ven solo como un problema de cultura de su organización que ninguna herramienta resuelve.
