@@ -2,36 +2,43 @@
 
 > "Cada licencia que pago tiene que poder justificarla delante del director financiero, función por función."
 
-- **Role:** Responsable de IT (equipo de 3 personas) en una consultora contable y de auditoría con unas 85 licencias de Microsoft 365
+- **Role:** Responsable de IT (equipo de 4 personas) en una fintech de unos 400 empleados con operación en 4 países y plan Microsoft 365 Business Premium; decide qué se propone en la renovación anual, que aprueba el director financiero
 - **Type:** tertiary
 - **Age range:** 38–46
-- **Location:** Bogotá, Colombia; presencial
-- **Industry:** servicios profesionales
+- **Location:** Buenos Aires; presencial, con parte de su equipo en Bogotá
+- **Industry:** servicios financieros / tecnología
 - **Technical literacy:** high
 - **Experience level:** expert
 
 ## Goals
 
-- Reducir el costo anual de software sin que los socios de la firma noten una caída en el servicio.
-- Mantener el entorno seguro y estable: menos incidentes, menos tickets, menos herramientas "en la sombra".
-- Llegar a la renovación anual con datos de uso concretos, no con impresiones.
+- Llegar a la renovación anual (dentro de cuatro meses) con una propuesta que el director financiero apruebe sin discutir: mantener, subir o bajar de plan, con datos.
+- Reducir herramientas por fuera de IT: hoy paga Slack para dos equipos y Miro para producto y diseño, además de Microsoft 365.
+- Mantener el entorno seguro y auditable, algo que el regulador financiero le exige.
 - Ser visto por la dirección como un socio que ahorra dinero, no como un centro de costo.
 
 ## Frustrations
 
-- En la última renovación los socios le preguntaron "¿qué usamos realmente del plan Premium?" y no tuvo una respuesta clara; los reportes de uso del centro de administración le parecen genéricos y difíciles de traducir en decisiones.
-- Dos equipos usan Google Docs y uno se pasó a Slack "porque es más cómodo"; eso le genera riesgos de seguridad y le hace sentir que paga dos veces por lo mismo.
-- Un tercio de los tickets que recibe sobre Teams son "no encuentro el archivo que me compartieron", y cada uno le quita entre 15 y 30 minutos.
-- Los proveedores le hablan de funciones avanzadas que nadie en la firma le pidió; cada salto de plan multiplicado por 85 usuarios es una conversación difícil con finanzas.
-- Recibe quejas de los gerentes, pero solo cuando algo falla; nunca sabe qué valoran de verdad.
+- En la última renovación el director financiero le preguntó "¿qué usamos realmente del plan Premium?" y no tuvo una respuesta clara; los reportes de uso del centro de administración le parecen genéricos y difíciles de traducir en decisiones.
+- Su cuenta de Microsoft le ofrece Max por USD 8 más por usuario por mes (unos USD 38.400 al año para 400 usuarios). Solo podría justificarlo si le permitiera dar de baja Miro y Slack, y no sabe si los equipos dejarían de usarlos.
+- Al mismo tiempo, en finanzas le sugieren bajar a Standard porque "pagamos por funciones que no usamos", y él no tiene cómo demostrar lo contrario.
+- Los Team Leads de producto se pasaron a Slack y trabajan en Miro durante las reuniones; él les pide "volver al canal oficial" y siente que no le hacen caso.
+- Recibe quejas de los gerentes solo cuando algo falla; nunca sabe qué valoran de verdad de las reuniones.
+
+## Decision process
+
+- Arma la propuesta de renovación con los reportes del centro de administración, la factura de cada herramienta externa y lo que le dice el ejecutivo de cuenta de Microsoft.
+- Dice que decide por precio y por lo que trae el paquete de Microsoft 365, no por lo que piden los equipos.
+- Sin embargo, hace dos años mantuvo una licencia de una herramienta de firma digital porque un director se quejó en el comité; todavía no sabe si fue una excepción o así funcionan las cosas.
+- No consulta a los Team Leads antes de renovar; se entera de lo que usan cuando aparece una factura nueva o un problema de seguridad.
 
 ## Typical tasks
 
-- Administra licencias, altas y bajas de usuarios y políticas de seguridad de Microsoft 365.
-- Prepara la propuesta de renovación anual y la defiende ante socios y finanzas.
-- Atiende y deriva tickets de soporte del equipo.
-- Evalúa herramientas que los equipos piden o empiezan a usar por su cuenta.
+- Administra licencias, altas y bajas de usuarios y políticas de seguridad de Microsoft 365 en los cuatro países.
+- Prepara la propuesta de renovación anual y la defiende ante el director financiero.
+- Evalúa herramientas que los equipos piden o empiezan a usar por su cuenta, y negocia sus contratos.
 - Revisa reportes de uso y costos una vez por trimestre.
+- Atiende y deriva los tickets de soporte que escala su equipo.
 
 ## Device preferences
 

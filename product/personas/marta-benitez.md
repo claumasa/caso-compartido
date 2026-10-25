@@ -1,8 +1,8 @@
 # Marta Benítez
 
-> "Yo voy a las reuniones que me ponen; lo que me gustaría es salir sabiendo para qué fui."
+> "Si me dejan escribir en la planilla, participo; si tengo que pedirle a otro que escriba por mí, me callo."
 
-- **Role:** Analista de cuentas por pagar en una empresa manufacturera de unos 2.500 empleados (más de 1.000 licencias de Microsoft 365); casi nunca convoca reuniones, participa en las que convocan otros
+- **Role:** Analista de cuentas por pagar en una empresa manufacturera de unos 2.500 empleados (más de 1.000 licencias de Microsoft 365, plan Premium); casi nunca convoca reuniones, participa en las que convocan otros
 - **Type:** secondary
 - **Age range:** 52–60
 - **Location:** Santiago de Chile; presencial, con un día de teletrabajo
@@ -13,22 +13,21 @@
 ## Goals
 
 - Cerrar los pagos de cada quincena sin errores ni multas por atrasos a proveedores.
-- Llegar a su jubilación con su trabajo bien hecho y sin tener que "volver a aprender todo" con cada sistema nuevo.
+- Que en las reuniones de conciliación quede bien anotado lo que ella sabe, sin tener que dictárselo a otro.
 - Que la reconozcan como la persona que sabe cómo funcionan los pagos de verdad.
 
 ## Frustrations
 
-- Está en unas 9 horas semanales de reuniones que no conduce; en varias su tema ocupa 5 minutos al final, y si se va antes se pierde lo que le toca.
-- Cuando en la reunión alguien pega un enlace de Miro o de Google Docs en el chat, lo abre, le pide iniciar sesión, y para cuando vuelve a Teams ya cambiaron de tema.
-- En los cierres de quincena, una reunión de una hora le cuesta quedarse después de hora para terminar los pagos.
-- Siente vergüenza de preguntar cómo se hace algo en Teams; aprendió a entrar, silenciarse y levantar la mano, y no se anima a más.
-- No usa notas de reunión, salas para grupos pequeños, Whiteboard ni grabaciones: nunca nadie se las mostró y no sabe que su licencia las incluye. Si las usara su jefe, tendría que aprender a usarlas en medio de la reunión, delante de todos.
-- Cree que "lo de las reuniones" es cosa de los jefes, pero le gustaría que alguien lo arreglara.
+- En la conciliación semanal con Compras, el líder de Compras trabaja sobre una planilla de Google Sheets que pega en el chat; cuando la abre le pide iniciar sesión con una cuenta de Google que IT tiene bloqueada, así que termina mirando la pantalla compartida y dictando los cambios en voz alta.
+- Mientras intenta abrir el enlace, el grupo ya cambió de tema y ella perdió el hilo; no se anima a pedir que vuelvan atrás.
+- En cambio, cuando su jefa abre un Excel dentro de la reunión de Finanzas, lo edita sin problema: es la única reunión donde siente que trabaja en vez de mirar.
+- Siente vergüenza de aprender algo nuevo delante de todos; aprendió a entrar, silenciarse y levantar la mano, y no se anima a más.
+- No usa notas de reunión, Whiteboard ni salas para grupos pequeños: nunca nadie se las mostró y no sabe que su licencia las incluye. Si un jefe las usara de golpe, tendría que descubrirlas en medio de la reunión, con todos mirando.
 
 ## Typical tasks
 
 - Procesa facturas y programa pagos a proveedores en el ERP.
-- Participa en la reunión semanal de finanzas y en reuniones de conciliación con compras.
+- Participa en la conciliación semanal con Compras (sobre una planilla de Google Sheets) y en la reunión semanal de Finanzas (sobre un Excel compartido en Teams).
 - Responde dudas de proveedores por correo y teléfono.
 - Comparte planillas de Excel por correo, porque así sabe dónde quedan.
 
