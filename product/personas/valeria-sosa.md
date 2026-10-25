@@ -2,10 +2,10 @@
 
 > "Si la reunión no termina con algo decidido y escrito en algún lado, fue una charla cara."
 
-- **Role:** Team Lead de un equipo de producto (7 personas) en una fintech de unos 400 empleados
+- **Role:** Team Lead de un equipo de producto (7 personas, repartidas entre Argentina, Colombia y México) en una fintech de unos 400 empleados con operación en 4 países y plan Microsoft 365 Business Premium
 - **Type:** primary
 - **Age range:** 30–37
-- **Location:** Buenos Aires, trabajo híbrido (2 días en oficina)
+- **Location:** Buenos Aires, trabajo híbrido (2 días en oficina); la mitad de su equipo trabaja remoto desde otros países
 - **Industry:** servicios financieros / tecnología
 - **Technical literacy:** high
 - **Experience level:** intermediate
