@@ -2,6 +2,7 @@
 status: framed
 segment: Team Leads y mandos medios que conducen sesiones de trabajo en cuentas Business Premium del sector tecnología, con 100 o más licencias, operación en 3 o más países y facturación superior a USD 100M
 personas: valeria-sosa, marta-benitez, raul-quintero, camila-ferreyra
+primary_focus: valeria-sosa
 ---
 
 # Opportunity: Colaboración en vivo durante las sesiones de trabajo
@@ -12,11 +13,11 @@ En las sesiones de trabajo de más de cinco personas, cuando el grupo necesita p
 
 Segmento en foco: cuentas Business Premium del sector tecnología, con 100 o más licencias, operación en 3 o más países y facturación superior a USD 100M. Son 12.400 cuentas y 2,1M de licencias, con equipos distribuidos en trabajo remoto o híbrido. Las reuniones las convocan y conducen Team Leads y mandos medios; los participantes sufren el problema de forma secundaria.
 
-- Valeria Sosa (primary) — lo sufre: lleva a su equipo a Miro y Jira durante las reuniones y reconstruye lo decidido los viernes. Está dentro del segmento.
-- Marta Benítez (secondary) — lo sufre del lado de quien participa: cuando la planilla es de Google Sheets no puede editarla (IT bloquea la cuenta) y dicta los cambios en voz alta; en un Excel nativo participa sin problema. Está fuera del segmento por sector (manufactura).
+- Valeria Sosa (primary en foco de esta oportunidad) — lo sufre: lleva a su equipo a Miro y Jira durante las reuniones y reconstruye lo decidido los viernes. Está dentro del segmento.
+- Marta Benítez (secondary) — lo sufre del lado de quien participa: no logra entrar al tablero externo (le pide una cuenta de Google o acceso), mira la pantalla compartida, dicta y se calla; su objeción aparece días después. En un Excel nativo participa sin problema. Desde el 2026-10-28 está dentro del segmento (soporte en una SaaS B2B multipaís), con evidencia de segunda mano de las entrevistas.
 - Raúl Quintero (tertiary) — no lo sufre; responde la creencia de viabilidad desde quien propone la renovación. Es la misma fintech que Valeria y está dentro del segmento.
 - Camila Ferreyra (negative) — no lo sufre dentro del alcance; es invitada externa con sus propias herramientas y marca el borde de la oportunidad.
-- Missing: participante del segmento (secondary), por ejemplo desarrollo o diseño en un equipo distribuido de una tecnológica multinacional.
+- Missing: ninguno en el set desde el 2026-10-28 (Marta cubre a quien participa dentro del segmento). Falta evidencia de primera mano: ninguna persona participante fue entrevistada.
 
 ## Signals
 
@@ -29,7 +30,8 @@ Segmento en foco: cuentas Business Premium del sector tecnología, con 100 o má
 | En general, el 29% de las reuniones de más de 5 personas comparte enlaces externos; Whiteboard está en el 5% y las notas en el 8% | real | Brief del caso, §4 |
 | En las renovaciones de cuentas grandes, "colaboración" aparece en las conversaciones sobre Max | unverified | Info complementaria, §2 — sin registro de cuántas veces |
 | Valeria lleva al equipo a Miro y Jira y reconstruye lo decidido | synthetic | product/personas/valeria-sosa.md |
-| Marta no puede editar una planilla de Google Sheets (cuenta bloqueada por IT) y dicta los cambios; en un Excel nativo participa | synthetic | product/personas/marta-benitez.md |
+| Marta no logra entrar al tablero externo y dicta los cambios; en un Excel nativo participa | synthetic | product/personas/marta-benitez.md |
+| En 6 de 10 entrevistas, quien conduce cuenta que algún participante no pudo entrar o editar y dictó o se calló (Gloria, Karla, Nico, los de Lyon, Marta); en un caso la objeción apareció una semana después | real (de segunda mano) | product/insights/2026-10-28-1124-entrevistas-colaboracion-en-vivo.md |
 | Raúl solo justificaría Max (~USD 38.400/año) si le permite dar de baja Miro y Slack; finanzas le sugiere bajar a Standard | synthetic | product/personas/raul-quintero.md |
 
 ## Business outcome

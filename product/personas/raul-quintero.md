@@ -31,6 +31,8 @@
 - Dice que decide por precio y por lo que trae el paquete de Microsoft 365, no por lo que piden los equipos.
 - Sin embargo, hace dos años mantuvo una licencia de una herramienta de firma digital porque un director se quejó en el comité; todavía no sabe si fue una excepción o así funcionan las cosas.
 - No consulta a los Team Leads antes de renovar; se entera de lo que usan cuando aparece una factura nueva o un problema de seguridad.
+- Además de Max, el ejecutivo de cuenta le ofrece el add-on de Copilot (unos USD 30 por usuario por mes), que es lo que trae el resumen de IA y el Facilitator de las reuniones. No tiene claro qué resuelve cada uno ni cuál podría justificar ante el director financiero, y sospecha que le están vendiendo dos veces lo mismo.
+- Aprobar una herramienta externa nueva lleva meses: seguridad, legal, el responsable de protección de datos y proveedores. Mientras tanto, los equipos que manejan datos de clientes solo pueden usar lo que ya trae Microsoft 365.
 
 ## Typical tasks
 
@@ -45,3 +47,13 @@
 - Principal: desktop Windows con dos monitores, centro de administración de Microsoft 365 y consola de seguridad abiertos.
 - Secundario: celular Android para alertas y aprobaciones.
 - Prefiere herramientas con reportes exportables y control centralizado.
+
+## Evidencia (2026-10-28)
+
+Persona sintética (creada el 2026-10-25). Nadie de IT fue entrevistado: la encuesta los excluyó (R1). Lo agregado es **evidencia indirecta**, no de alguien como Raúl.
+
+- **Agregado (secondary):** la elección entre Max y Copilot. El recap y el Facilitator de Teams requieren el add-on de Copilot (unos USD 30), no dependen del plan. Fuente: product/research/2026-10-25-1836-colaboracion-en-vivo.md. Es lo que pone a prueba la creencia `[opportunity: decisiones-sin-ejecutar] [viability]`.
+- **Agregado (real, del lado de quien usa):** los meses que tarda aprobar herramientas en cuentas reguladas.
+  > "Pedir aprobación para una herramienta nueva son meses: seguridad, legal, el DPO, proveedores. Un compañero lo intentó con otra herramienta el año pasado y aún está esperando." — Lucía Fernández (product/interviews/2026-10-26-1600-lucia-fernandez.md)
+- **Señal relacionada, sin agregar:** las licencias externas parciales generan acceso parcial en las reuniones (invitados de Miro con solo lectura, una instancia por filial), algo que IT probablemente no ve (Tomás Aguirre, Javier Molina).
+- **Sin evidencia todavía:** todo lo demás. Su proceso de decisión, el peso de los Team Leads y su relación con el director financiero siguen siendo hipótesis.
