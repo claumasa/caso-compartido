@@ -74,10 +74,12 @@ Referencias a product/overview.md, el único registro de creencias.
 
 ## Candidate ideas (not evaluated)
 
-- Situación actual (punto de comparación): quien conduce reescribe a mano y lo distribuye por correo, Slack o Jira; Paula revisa el recap antes de mandarlo.
-- Lista de decisiones con responsable, fecha y motivo, confirmada por el grupo antes de cerrar la reunión.
-- Recap de IA que propone decisiones durante la reunión y quien conduce las confirma.
-- Recap que toma como fuente lo trabajado en la reunión (tablero, dashboard, documento), no solo el audio.
-- Envío de las decisiones al sistema donde vive el trabajo (Jira, Confluence, correo, Planner).
-- Aviso a quienes no estuvieron y tienen que ejecutar.
-- Detectar decisiones sin responsable antes de que termine la reunión.
+Evaluadas en [product/solutions/2026-10-28-1210-decisiones-sin-ejecutar.md](../solutions/2026-10-28-1210-decisiones-sin-ejecutar.md) (2026-10-28).
+
+- Situación actual (punto de comparación): quien conduce reescribe a mano y lo distribuye por correo, Slack o Jira; Paula revisa el recap antes de mandarlo. — baseline
+- Lista de decisiones con responsable, fecha y motivo, confirmada por el grupo antes de cerrar la reunión. — `chosen` para probar (A1 `cierre-confirmado`)
+- Recap de IA que propone decisiones durante la reunión y quien conduce las confirma. — `chosen` para probar (A2 `decisiones-propuestas`)
+- Recap que toma como fuente lo trabajado en la reunión (tablero, dashboard, documento), no solo el audio. — `chosen` para probar, dentro de A2
+- Envío de las decisiones al sistema donde vive el trabajo (Jira, Confluence, correo, Planner). — `parked` (A3 `decisiones-al-sistema`)
+- Aviso a quienes no estuvieron y tienen que ejecutar. — `parked` (A4 `aviso-a-quien-ejecuta`)
+- Detectar decisiones sin responsable antes de que termine la reunión. — `chosen` para probar, dentro de A2
